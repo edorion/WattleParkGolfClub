@@ -16,8 +16,12 @@ group :assets do
   gem 'uglifier', '1.2.3'
 end
 
-gem 'jquery-rails', '2.0.2'
+gem 'jquery-rails', '2.2.1'
 
 group :production do
   gem 'pg', '0.12.2'
 end
+
+gem 'spree', '2.0.3'
+gem 'spree_gateway', :git => 'https://github.com/spree/spree_gateway.git', :branch => '2-0-stable'
+gem 'spree_auth_devise', :git => 'https://github.com/spree/spree_auth_devise.git', :branch => '2-0-stable'

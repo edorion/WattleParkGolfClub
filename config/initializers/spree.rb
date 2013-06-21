@@ -9,7 +9,7 @@ Spree.config do |config|
   # Example:
   # Uncomment to override the default site name.
  config.site_name = "Wattle Park Golf Club"
- config.set(logo: "store/golflogosmall.jpg")
+ config.set(logo: "store/WattleParkNameSmall.jpg")
 end
 
 Spree.user_class = "Spree::User"

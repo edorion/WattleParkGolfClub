@@ -5,6 +5,6 @@
     <title>Wattle Park Golf Club</title>
   </head>
   <body>
-    <div style="text-align: center;"><a href="%5Cstore"><img alt="" src="WattleParkImages/SplashImage.jpg"></a></div>
+    <div style="text-align: center;"><img alt="" src="WattleParkImages/SplashImage.jpg"></div>
   </body>
 </html>
